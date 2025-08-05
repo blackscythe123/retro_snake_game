@@ -57,15 +57,15 @@ java SnakeGame
 
 **Main Menu:**
 
-![Main Menu](src/image.png)
+![Main Menu](img/image.png)
 
 **In-Game:**
 
-![In Game](src/image-1.png)
+![In Game](img/image-1.png)
 
 **Game Over Screen:**
 
-![Game Over](src/image-2.png)
+![Game Over](img/image-2.png)
 
 ---
 
@@ -84,4 +84,5 @@ snake-game/
 ---
 
 > Made with ❤️ in Java for fun and learning.
+
 
